@@ -1,3 +1,4 @@
+ /* body  */
 body {
     background-image: url('bright.jpeg');
     object-fit: contain;
@@ -9,17 +10,21 @@ body {
     position: static;
     
 }
+ /* my ul */
 ul{
     list-style: none;
     color: rgb(10, 10, 10);
 }
+  /* my strong */
 strong{
     color: 
   p
 }
+  /* my h2s */
 h2{
     color: brown;
 }
+ /* my h1 */
 h1{
     display: flex;
     justify-content: center;
@@ -31,6 +36,7 @@ h1{
    width: 60%;
    text-transform: uppercase;
 }
+  /* contact.html styling section  */
 .body{
     background-image: none;
     background-color: bisque;
@@ -87,7 +93,7 @@ h1{
         background-color: #f2f2f2;
         
     }
-    
+       /* button  */
     
     .btn {
         width: 30%;
